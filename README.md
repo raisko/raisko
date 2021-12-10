@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... HTML and CSS
 - 🌱 I’m currently learning ... HTML and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord: #raisko#999
+- 📫 How to reach me ... Discord: #raisko#1001
 
 <!---
 raisko/raisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
